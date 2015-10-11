@@ -1,0 +1,26 @@
+This directory mediatek contains hardware configuration file
+
+
+WHAT IT DOES?
+=============
+It provide audio/bluetooth/WIFI /GPS// configuration file for  usage.
+
+
+HOW IT WAS BUILT?
+==================
+It needs the following libs from AOSP:
+
+
+and the following libs from MediaTek:
+
+
+All source/dependency modules of this module are already put in
+'hardware/mediatek/ folder.
+
+
+HOW TO USE IT?
+==============
+Files in this directory is used for mediatek hardware
+
+
+All the source code of this directory were written by MediaTek co..

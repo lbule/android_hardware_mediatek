@@ -1,0 +1,28 @@
+This directory contains bluetooth driver layer code.
+
+WHAT IT DOES?
+=============
+It provide bluetooth driver interfaces for stack.
+
+HOW IT WAS BUILT?
+==================
+
+It needs the following libs from AOSP:
+1.  libdl.so
+
+and the following libs from MediaTek:
+1. liblog.so
+
+All source/dependency modules of this module are already put in
+'vendor/mediatek/libs' folder.
+
+
+HOW TO USE IT?
+==============
+
+Files in this directory is used to
+generate a library which's name is 'libbluetoothdrv.so'
+
+
+All the source code of this library were written by MediaTek co..
+
